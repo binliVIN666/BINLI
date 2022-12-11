@@ -1,0 +1,4 @@
+﻿  game.c
+D:\c语言测试\猜数字.c\game.c(29,22): warning C4013: “time”未定义；假设外部返回 int
+D:\c语言测试\猜数字.c\game.c(39,13): warning C4047: “=”:“int”与“char *”的间接级别不同
+  猜数字.c.vcxproj -> D:\c语言测试\猜数字.c\x64\Debug\猜数字.c.exe
