@@ -1,0 +1,5 @@
+﻿  RoundData.c
+D:\c语言测试\RoundData.c\RoundData.c(36,24): warning C4133: “函数”: 从“double *”到“char *”的类型不兼容
+D:\c语言测试\RoundData.c\RoundData.c(37,24): warning C4133: “函数”: 从“double *”到“char *”的类型不兼容
+D:\c语言测试\RoundData.c\RoundData.c(38,24): warning C4133: “函数”: 从“double *”到“char *”的类型不兼容
+  RoundData.c.vcxproj -> D:\c语言测试\RoundData.c\x64\Debug\RoundData.c.exe
